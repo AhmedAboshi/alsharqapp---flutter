@@ -1,0 +1,29 @@
+   {
+  "project_info": {
+    "project_number": "823054365132",
+    "project_id": "alsharqapp-f9ada",
+    "storage_bucket": "alsharqapp-f9ada.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823054365132:android:8a0e8f48891177bb7ced69",
+        "android_client_info": {
+          "package_name": "com.example.alsharqapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASr_elio-dYIZae4BPhRNoXdO0lUZAhX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
